@@ -5,7 +5,7 @@ Picture collage maker in Python
 
 Usage:
 ------
-The usage of `collage_maker.py` is very simple:
+The usage of `collage_generator.py` is very simple:
 ```
 usage: collage_maker.py [-h] [-f FOLDER] [-o OUTPUT] [-w WIDTH]
                         [-i INIT_HEIGHT] [-s]
