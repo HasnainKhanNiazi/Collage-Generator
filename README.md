@@ -29,13 +29,3 @@ Example:
 ```
 collage_maker.py -o my_collage.png -w 800 -i 250 -s
 ```
-
-Description:
-------------
-
-Description of algorithm is available in my blog:
-http://delimitry.blogspot.com/2014/07/picture-collage-maker-using-python.html
-
-License:
---------
-Released under [The MIT License](https://github.com/delimitry/collage_maker/blob/master/LICENSE).
